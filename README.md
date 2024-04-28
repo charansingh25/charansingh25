@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charan Singh</h1>
 <h3 align="center">A passionate MERN stack and Android developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charansingh25" alt="charansingh25" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charansingh25&label=Profile%20views&color=0e75b6&style=flat" alt="charansingh25" /> </p>
 
 - 🔭 I’m currently working on [InterLinkd, a messaging and networking platform](https://github.com/charansingh25/InterLinkd)
 
